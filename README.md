@@ -1,1 +1,3 @@
-# COMPROLP
+O Objetivo desta landing page é apresentar o projeto COMPRO - Catálogo Online de Membros Protéticos.
+
+O COMPRO tem como objetivo auxiliar os usuários de prótese a terem um novo recomeço, de forma que os mesmos se sintam acolhidos e possam recomeçar suas vidas na sociedade, visto que estes sofrem de diversos problemas estruturais, sociais e até mesmo relacionados a saúde mental tendo em vista perdas recentes ou antigas de membros. Com está Landing page visamos apresentar a problemática do aplicativo e trazer o conceito inicial, além de informar sobre a equipe e seu papel e as formas de contato com a equipe e a empresa COMPRO.
